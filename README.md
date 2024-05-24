@@ -3,6 +3,7 @@
 **Overview:**
 "Toyscape" is a strategic board game where the player controls a hero to defeat enemies and navigate through obstacles. The player has a limited number of actions per round to move and attack.
 
+
 ### Game Board
 - The game board is a 12x12 grid.
 - The grid contains various elements:
@@ -52,5 +53,8 @@ Example:
 - Each round, the game board updates to show new positions and life states of the hero and enemies.
 - The remaining actions and lives of the hero are also displayed.
 - The round timer goes up by one.
+
+### Sketch
+![Toyscape Board](Skizze.png)
 
 ---
