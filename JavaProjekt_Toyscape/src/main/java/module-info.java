@@ -4,9 +4,12 @@ module com.example.demo {
 
     requires org.controlsfx.controls;
     requires org.kordamp.bootstrapfx.core;
+    requires java.sql;
 
     opens at.htlleonding.java.projekt.game to javafx.fxml;
     exports at.htlleonding.java.projekt.game;
     exports controller;
     opens controller to javafx.fxml;
+    exports database;
+    opens database to javafx.fxml;
 }
