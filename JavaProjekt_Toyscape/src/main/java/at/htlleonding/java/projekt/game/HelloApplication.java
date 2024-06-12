@@ -1,5 +1,6 @@
 package at.htlleonding.java.projekt.game;
 
+import controller.HelloController;
 import controller.LoginController;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
@@ -15,6 +16,11 @@ public class HelloApplication extends Application {
         if (showLoginDialog()) {
             FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("hello-view.fxml"));
             Scene scene = new Scene(fxmlLoader.load());
+
+            HelloController controller = fxmlLoader.getController();
+
+            scene.setOnKeyPressed(event -> controller.handleKeyPress(event));
+
             stage.setTitle("Hello!");
             stage.setScene(scene);
             stage.show();
