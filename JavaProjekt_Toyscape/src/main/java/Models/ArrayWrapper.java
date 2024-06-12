@@ -1,4 +1,4 @@
-package at.htlleonding.java.projekt.game.Models;
+package Models;
 
 import java.util.Arrays;
 

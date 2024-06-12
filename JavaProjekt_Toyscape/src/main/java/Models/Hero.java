@@ -1,4 +1,4 @@
-package at.htlleonding.java.projekt.game.Models;
+package Models;
 
 public class Hero extends Character {
     public Hero() {

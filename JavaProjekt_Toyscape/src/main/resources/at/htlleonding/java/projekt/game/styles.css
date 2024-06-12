@@ -1,0 +1,11 @@
+.grid-pane {
+    -fx-hgap: 1; /* horizontal gap between columns */
+    -fx-vgap: 1; /* vertical gap between rows */
+    -fx-grid-lines-visible: true;
+}
+
+.grid-cell {
+    -fx-border-color: black;
+    -fx-border-width: 0.5;
+    -fx-background-color: #8B4513; /* Hintergrundfarbe des GridPane auf Holzfarbe setzen */
+}

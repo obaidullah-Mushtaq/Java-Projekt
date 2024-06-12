@@ -1,5 +1,6 @@
 package at.htlleonding.java.projekt.game.Models;
 
+import Models.Board;
 import org.junit.Before;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
@@ -12,7 +13,6 @@ public class BoardTest {
     public void setUp() {
         board = new Board();
     }
-
     @Test
     public void testBoardInitialization() {
         int[][] boardArray = board.getBoard();

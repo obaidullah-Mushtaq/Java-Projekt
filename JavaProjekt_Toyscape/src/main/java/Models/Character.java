@@ -1,4 +1,4 @@
-package at.htlleonding.java.projekt.game.Models;
+package Models;
 
 public abstract class Character {
     protected int id;

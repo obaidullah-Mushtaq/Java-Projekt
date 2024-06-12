@@ -1,4 +1,4 @@
-package at.htlleonding.java.projekt.game.Models;
+package Models;
 
 import java.util.*;
 
@@ -32,7 +32,6 @@ public class Game {
         }
         return instance;
     }
-
     public void newRound(){
         resetActions();
         attackHero();

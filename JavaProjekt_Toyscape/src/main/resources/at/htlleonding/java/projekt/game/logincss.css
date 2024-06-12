@@ -1,0 +1,17 @@
+/* logincss.css */
+
+#myGridPane {
+    -fx-grid-lines-visible: true;
+    -fx-background-color: #8B4513;
+    -fx-padding: 5;
+}
+
+.grid-pane {
+    -fx-border-color: black;
+    -fx-border-width: 1;
+    -fx-grid-line-color: black;
+}
+
+.root {
+    -fx-background-color: #808080;
+}

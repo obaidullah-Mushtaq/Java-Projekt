@@ -6,10 +6,11 @@ module com.example.demo {
     requires org.kordamp.bootstrapfx.core;
     requires junit;
     requires java.base;
+    requires java.sql;
 
     opens at.htlleonding.java.projekt.game to javafx.fxml;
     exports at.htlleonding.java.projekt.game;
-    exports at.htlleonding.java.projekt.game.controller;
-    opens at.htlleonding.java.projekt.game.controller to javafx.fxml;
-    exports at.htlleonding.java.projekt.game.Models to junit;
+    exports controller;
+    opens controller to javafx.fxml;
+    exports Models to junit;
 }

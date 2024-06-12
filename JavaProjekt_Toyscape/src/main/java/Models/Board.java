@@ -1,4 +1,4 @@
-package at.htlleonding.java.projekt.game.Models;
+package Models;
 
 import java.util.*;
 
@@ -20,11 +20,9 @@ public class Board {
     public void setPosition(int[] position, int id){
         board[position[0]][position[1]] = id;
     }
-
     public int[] getHeroPosition() {
         return heroPosition;
     }
-
     public void setHeroPosition(int x, int y) {
         this.heroPosition = new int[]{x,y};
         board[x][y] = 3;

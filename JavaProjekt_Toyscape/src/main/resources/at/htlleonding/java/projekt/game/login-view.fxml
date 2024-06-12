@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<?import javafx.geometry.Insets?>
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.LoginController" stylesheets="@logincss.css">
+    <children>
+        <VBox alignment="CENTER" spacing="10.0" layoutX="314.0" layoutY="208.0">
+            <children>
+                <Label text="Login" style="-fx-font-size: 24px;"/>
+                <TextField fx:id="firstNameField" promptText="First Name"/>
+                <TextField fx:id="lastNameField" promptText="Last Name"/>
+                <Button text="Login" onAction="#handleLogin"/>
+            </children>
+            <padding>
+                <Insets top="100.0" right="0.0" bottom="0.0" left="0.0"/> <!-- Adjust top padding as needed -->
+            </padding>
+        </VBox>
+    </children>
+</AnchorPane>

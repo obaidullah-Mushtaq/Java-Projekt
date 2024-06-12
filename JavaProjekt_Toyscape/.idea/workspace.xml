@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f10dd06-b9cb-4722-a645-a5b1e3e14c7c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/README_DO_NOT_TOUCH_FILES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/db.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/log/README_DO_NOT_TOUCH_FILES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/log/log.ctrl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/log/log1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/log/logmirror.ctrl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/README_DO_NOT_TOUCH_FILES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c10.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c101.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c111.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c121.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c130.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c141.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c150.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c161.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c171.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c180.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c191.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c1a1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c1b1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c1c0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c1d1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c1e0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c1f1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c20.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c200.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c211.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c221.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c230.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c241.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c251.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c260.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c271.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c281.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c290.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c2a1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c2b1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c2c1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c2d0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c2e1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c2f0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c300.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c31.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c311.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c321.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c331.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c340.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c351.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c361.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c371.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c380.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c391.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c3a1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c3b1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c3c0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c3d1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c3e1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c3f1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c400.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c41.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c411.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c421.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c430.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c441.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c451.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c461.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c470.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c481.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c51.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c60.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c71.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c81.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/c90.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/ca1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/cb1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/cc0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/cd1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/ce1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/seg0/cf0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/db/service.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/derby.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/src/main/java/at/htlleonding/java/projekt/game/HelloApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/src/main/java/at/htlleonding/java/projekt/game/Models/ArrayWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/src/main/java/at/htlleonding/java/projekt/game/Models/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/src/main/java/at/htlleonding/java/projekt/game/Models/Character.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/src/main/java/at/htlleonding/java/projekt/game/Models/Enemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/src/main/java/at/htlleonding/java/projekt/game/Models/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/src/main/java/at/htlleonding/java/projekt/game/Models/Hero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/src/main/java/at/htlleonding/java/projekt/game/Models/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/src/main/java/at/htlleonding/java/projekt/game/controller/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/src/main/resources/at/htlleonding/java/projekt/game/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/src/test/java/at/htlleonding/java/projekt/game/Models/BoardTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjekt_Toyscape/src/test/java/at/htlleonding/java/projekt/game/Models/GameTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Skizze.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/db.lck" beforeDir="false" afterPath="$PROJECT_DIR$/db/db.lck" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/log/log.ctrl" beforeDir="false" afterPath="$PROJECT_DIR$/db/log/log.ctrl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/log/log1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/log/log1.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/log/logmirror.ctrl" beforeDir="false" afterPath="$PROJECT_DIR$/db/log/logmirror.ctrl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/c101.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c101.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/c111.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c111.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/c121.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c121.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/c130.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c130.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/c141.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c141.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/c20.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c20.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/c230.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c230.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/c31.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c31.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/c400.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c400.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/c41.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c41.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/c411.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c411.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/c421.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c421.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/c4f0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/c501.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/c51.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c51.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/c60.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c60.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/c71.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c71.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/c81.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c81.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/c90.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c90.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/ca1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/ca1.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/cb1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/cb1.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/cf0.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/cf0.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/derby.log" beforeDir="false" afterPath="$PROJECT_DIR$/derby.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/at/htlleonding/java/projekt/game/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/at/htlleonding/java/projekt/game/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/at/htlleonding/java/projekt/game/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/at/htlleonding/java/projekt/game/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2hlnUxrcf2kJPEvlH4Rqoj41GML" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/HTL_Leonding/3CHIF/Programmieren/Java/Projekt/JavaProjekt_Toyscape (2)/JavaProjekt_Toyscape",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="BoardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.htlleonding.java.projekt.game.Models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.htlleonding.java.projekt.game.Models" />
+      <option name="MAIN_CLASS_NAME" value="at.htlleonding.java.projekt.game.Models.BoardTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BoardTest.testBoardInitialization" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.htlleonding.java.projekt.game.Models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.htlleonding.java.projekt.game.Models" />
+      <option name="MAIN_CLASS_NAME" value="at.htlleonding.java.projekt.game.Models.BoardTest" />
+      <option name="METHOD_NAME" value="testBoardInitialization" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BoardTest.testNoOverlappingObjects" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.htlleonding.java.projekt.game.Models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.htlleonding.java.projekt.game.Models" />
+      <option name="MAIN_CLASS_NAME" value="at.htlleonding.java.projekt.game.Models.BoardTest" />
+      <option name="METHOD_NAME" value="testNoOverlappingObjects" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BoardTest.testTabuFields" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.htlleonding.java.projekt.game.Models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.htlleonding.java.projekt.game.Models" />
+      <option name="MAIN_CLASS_NAME" value="at.htlleonding.java.projekt.game.Models.BoardTest" />
+      <option name="METHOD_NAME" value="testTabuFields" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BoardTest" />
+        <item itemvalue="JUnit.BoardTest.testNoOverlappingObjects" />
+        <item itemvalue="JUnit.BoardTest.testTabuFields" />
+        <item itemvalue="JUnit.BoardTest.testBoardInitialization" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f10dd06-b9cb-4722-a645-a5b1e3e14c7c" name="Changes" comment="" />
+      <created>1718177553976</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718177553976</updated>
+      <workItem from="1718177555390" duration="732000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

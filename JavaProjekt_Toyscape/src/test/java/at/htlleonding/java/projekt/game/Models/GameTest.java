@@ -1,6 +1,10 @@
 package at.htlleonding.java.projekt.game.Models;
 
 import static org.junit.jupiter.api.Assertions.*;
+
+import Models.Enemy;
+import Models.Game;
+import Models.Hero;
 import org.junit.jupiter.api.*;
 
 public class GameTest {

@@ -1,4 +1,4 @@
-package at.htlleonding.java.projekt.game.Models;
+package Models;
 
 public class Node {
     int row, col, cost, heuristic;
