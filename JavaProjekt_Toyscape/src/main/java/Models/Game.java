@@ -1,5 +1,7 @@
 package Models;
 
+import javafx.beans.property.SimpleIntegerProperty;
+
 import java.util.*;
 
 public class Game {
@@ -8,13 +10,16 @@ public class Game {
     private static final int[][] DIRECTIONS = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
     private Board board;
     private Hero hero;
-    private int roundCounter;
-    private int actionCounter;
+    private SimpleIntegerProperty roundCounter;
+    private SimpleIntegerProperty actionCounter;
 
-    public int getRoundCounter() {
+    public SimpleIntegerProperty getRoundCounterProperty() {
         return roundCounter;
     }
-    public int getActionCounter(){return actionCounter;}
+    public SimpleIntegerProperty getActionCounterProperty(){return actionCounter;}
+    public int getRoundCounter(){return roundCounter.get();}
+    public int getActionCounter(){return actionCounter.get();}
+
     public Hero getHero(){return hero;}
     public Board getBoard(){
         return board;
@@ -23,8 +28,8 @@ public class Game {
     private Game(){
          this.hero = new Hero();
          this.board = new Board();
-        actionCounter = 2;
-        roundCounter = 0;
+        actionCounter = new SimpleIntegerProperty(2);
+        roundCounter = new SimpleIntegerProperty(0);
     }
     public static Game getInstance() {
         if(instance == null) {
@@ -36,8 +41,8 @@ public class Game {
         resetActions();
         attackHero();
         moveEnemies();
-        roundCounter++;
-        actionCounter = 2;
+        roundCounter.set(roundCounter.get() + 1);
+        actionCounter.set(2);
     }
 
     private void resetActions(){
@@ -172,6 +177,9 @@ public class Game {
         }
         return false;
     }
+    public boolean won(){
+        return enemys.isEmpty();
+    }
     public boolean attackEnemy(int x, int y){
         int[] position = {x, y};
             if (board.getIdOfPosition(x, y) == 1 || board.getIdOfPosition(x, y) == 2) {
@@ -181,20 +189,24 @@ public class Game {
                         board.setPosition(position, 0);
                         enemys.remove(new ArrayWrapper(position));
                     }
-                    actionCounter--;
+                    actionCounter.set(actionCounter.get() - 1);
                     return true;
             }
         }
         return false;
     }
     public  boolean moveHero(int x, int y){
-        if(board.getIdOfPosition(x,y) == 0){
+        if(inMoveRange(x,y)){
             board.setPosition(board.getHeroPosition(), 0);
             board.setHeroPosition(x,y);
-            actionCounter--;
+            actionCounter.set(actionCounter.get() - 1);
             return true;
         }
         return false;
+    }
+    private boolean inMoveRange(int x, int y){
+        int[][] tmpBoard = board.getBoard();
+        return x >= 0 && x < tmpBoard.length && y >= 0 && y < tmpBoard[0].length && (board.getIdOfPosition(x,y) == 0 || board.getIdOfPosition(x,y) == -1);
     }
     public static void addEnemy(int[] position, Enemy enemy){
     enemys.put(new ArrayWrapper(position), enemy);
